@@ -35,7 +35,7 @@
   </p>
 
   <h4>Backend Development and Database Services</h4>
-  <p>
+  <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
     <a href="https://learn.microsoft.com/dotnet/csharp/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="C#">
     </a>
@@ -61,7 +61,7 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
     </a>
     <p>SQL Server</p>
-  </p>
+  </div>
 </section>
 
 <section>
