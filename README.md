@@ -46,7 +46,7 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java">
     </a>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring" />
+      <img src="https://skillicons.dev/icons?i=spring" alt="Springboot" style="height:30px; width:auto;"/>
     </a>
     <a href="https://nodejs.org/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="Node.js">
@@ -60,9 +60,7 @@
     <a href="https://www.mysql.com/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
     </a>
-    <a href="https://learn.microsoft.com/sql/sql-server/">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLServer/sqlserver1.svg" alt="SQL Server">
-    </a>
+    <p>SQL Server</p>
   </p>
 </section>
 
