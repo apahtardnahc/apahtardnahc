@@ -15,6 +15,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Javascript</li>
+    <li>TypeScript</li>
     <li>React</li>
     <li>NextJS</li>
     <li>Tailwind</li>
@@ -26,6 +27,7 @@
     <li>Java + Springboot</li>
     <li>NodeJS</li>
     <li>ExpressJS</li>
+    <li>PostgreSQL + MySQL + SQL Server</li>
   </ul> 
 </section>
 
