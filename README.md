@@ -7,28 +7,63 @@
 </section>
 
 <section>
-  <h3>Tech stacks:</h3>
-  <p>These are the technologies I'm proficient in:</p>
+  <h3>Tech stacks</h3>
 
-  <p>Front end:</p>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript</li>
-    <li>TypeScript</li>
-    <li>React</li>
-    <li>NextJS</li>
-    <li>Tailwind</li>
-  </ul>
+  <h4>Front end</h4>
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JavaScript/javascript1.svg" alt="JavaScript">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript">
+    </a>
+    <a href="https://reactjs.org/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" alt="React">
+    </a>
+    <a href="https://nextjs.org/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" alt="Next.js">
+    </a>
+    <a href="https://tailwindcss.com/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tailwind/tailwind1.svg" alt="Tailwind CSS">
+    </a>
+  </p>
 
-  <p>Backend end:</p>
-  <ul>
-    <li>C# + .NET 8, 10</li>
-    <li>Java + Springboot</li>
-    <li>NodeJS</li>
-    <li>ExpressJS</li>
-    <li>PostgreSQL + MySQL + SQL Server</li>
-  </ul> 
+  <h4>Backend</h4>
+  <p>
+    <a href="https://learn.microsoft.com/dotnet/csharp/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="C#">
+    </a>
+    <a href="https://dotnet.microsoft.com/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DotNet/dotnet1.svg" alt=".NET">
+    </a>
+    <a href="https://www.java.com/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java">
+    </a>
+    <a href="https://spring.io/projects/spring-boot">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spring/spring1.svg" alt="Spring Boot">
+    </a>
+    <a href="https://nodejs.org/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Nodejs/nodejs1.svg" alt="Node.js">
+    </a>
+    <a href="https://expressjs.com/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" alt="Express">
+    </a>
+    <a href="https://www.postgresql.org/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL">
+    </a>
+    <a href="https://www.mysql.com/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
+    </a>
+    <a href="https://learn.microsoft.com/sql/sql-server/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLServer/sqlserver1.svg" alt="SQL Server">
+    </a>
+  </p>
 </section>
 
 <section>
