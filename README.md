@@ -18,7 +18,7 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JavaScript/javascript1.svg" alt="JavaScript">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
     </a>
     <a href="https://www.typescriptlang.org/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript">
