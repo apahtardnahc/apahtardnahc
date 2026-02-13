@@ -16,13 +16,14 @@
     <li>CSS</li>
     <li>Javascript</li>
     <li>React</li>
+    <li>NextJS</li>
     <li>Tailwind</li>
   </ul>
 
   <p>Backend end:</p>
   <ul>
     <li>C#</li>
-    <li>>.NET 8, 10/li>
+    <li>.NET 8, 10</li>
     <li>Java</li>
     <li>Springboot</li>
     <li>NodeJS</li>
@@ -36,6 +37,8 @@
     <li>AWS</li>
     <li>Kubernetes</li>
     <li>Docker</li>
+    <li>Go</li>
+    <li>Python</li>
   </ul>
 </section>
 
