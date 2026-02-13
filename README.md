@@ -22,10 +22,8 @@
 
   <p>Backend end:</p>
   <ul>
-    <li>C#</li>
-    <li>.NET 8, 10</li>
-    <li>Java</li>
-    <li>Springboot</li>
+    <li>C# + .NET 8, 10</li>
+    <li>Java + Springboot</li>
     <li>NodeJS</li>
     <li>ExpressJS</li>
   </ul> 
