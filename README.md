@@ -60,7 +60,7 @@
     <a href="https://www.mysql.com/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
     </a>
-    <p>SQL Server</p>
+    <p style="display:inline-block;">SQL Server</p>
   </div>
 </section>
 
