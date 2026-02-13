@@ -86,7 +86,9 @@
 <section>
   <h3>How to reach me:</h3>
   <p>Email: chandraprakshwork@outlook.com</p>
-  <a href="https://www.linkedin.com/in/chandra-thapa/"> Chandra Thapa LinkedIn </a>
+  <div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-thapa/)
+</div>
 </section>
 <!--
 **apahtardnahc/apahtardnahc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
