@@ -30,17 +30,17 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" alt="Next.js">
     </a>
     <a href="https://tailwindcss.com/">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tailwind/tailwind1.svg" alt="Tailwind CSS">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" alt="Tailwind CSS">
     </a>
   </p>
 
-  <h4>Backend</h4>
+  <h4>Backend Development and Database Services</h4>
   <p>
     <a href="https://learn.microsoft.com/dotnet/csharp/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="C#">
     </a>
     <a href="https://dotnet.microsoft.com/">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DotNet/dotnet1.svg" alt=".NET">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg" alt=".NET">
     </a>
     <a href="https://www.java.com/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java">
@@ -49,7 +49,7 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spring/spring1.svg" alt="Spring Boot">
     </a>
     <a href="https://nodejs.org/">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Nodejs/nodejs1.svg" alt="Node.js">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="Node.js">
     </a>
     <a href="https://expressjs.com/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" alt="Express">
