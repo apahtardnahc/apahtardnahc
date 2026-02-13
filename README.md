@@ -45,9 +45,11 @@
     <a href="https://www.java.com/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java">
     </a>
-    <a href="https://spring.io/projects/spring-boot">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spring/spring1.svg" alt="Spring Boot">
-    </a>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring" />
+  </a>
+</p>
     <a href="https://nodejs.org/">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="Node.js">
     </a>
