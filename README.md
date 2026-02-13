@@ -66,13 +66,23 @@
 
 <section>
   <h3>What I'm currently learning:</h3>
-  <ul>
-    <li>AWS</li>
-    <li>Kubernetes</li>
-    <li>Docker</li>
-    <li>Go</li>
-    <li>Python</li>
-  </ul>
+  <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center">
+    <a href="https://aws.amazon.com/" title="AWS">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg" alt="AWS" height="30" style="width:auto">
+    </a>
+    <a href="https://kubernetes.io/" title="Kubernetes">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kubernetes/kubernetes1.svg" alt="Kubernetes" height="30" style="width:auto">
+    </a>
+    <a href="https://www.docker.com/" title="Docker">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker" height="30" style="width:auto">
+    </a>
+    <a href="https://go.dev/" title="Go">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg" alt="Go" height="30" style="width:auto">
+    </a>
+    <a href="https://www.python.org/" title="Python">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="Python" height="30" style="width:auto">
+    </a>
+  </div>
 </section>
 
 <section>
