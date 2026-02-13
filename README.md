@@ -70,9 +70,7 @@
     <a href="https://aws.amazon.com/" title="AWS">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg" alt="AWS" height="30" style="width:auto">
     </a>
-    <a href="https://kubernetes.io/" title="Kubernetes">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kubernetes/kubernetes1.svg" alt="Kubernetes" height="30" style="width:auto">
-    </a>
+    <p>Kubernetes</p>
     <a href="https://www.docker.com/" title="Docker">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker" height="30" style="width:auto">
     </a>
